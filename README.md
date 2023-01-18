@@ -5,6 +5,7 @@
 [7장:: 오류처리](https://radical-colony-e9a.notion.site/7-dfa5958ab9684e388aed883bdefb9216)
 [8장:: 경계](https://radical-colony-e9a.notion.site/8-b5f89e9804e44d4a8fdcfa9891c3115a)
 
+
 ## 공부 유무 체크하기! ✅
 | Name | Seo Yeon Lee |
 | --- | --- |
